@@ -1,0 +1,8 @@
+site_name: 21Nov Documentation site_name
+site_description: This is the site for our end-user Documentation
+site_author: Dheeraj Nagar
+
+theme: material
+
+nav: 
+  - Home: index.md
